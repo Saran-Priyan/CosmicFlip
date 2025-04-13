@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "255614256333",
+    "project_id": "cosmicflip-5f3c4",
+    "storage_bucket": "cosmicflip-5f3c4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255614256333:android:a3fe9b1028e825ea759584",
+        "android_client_info": {
+          "package_name": "com.cosmicflip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Z2gvI1FP6Sad5HxKwv2JPIWE9JY__m4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
